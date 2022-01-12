@@ -1,0 +1,2 @@
+#cells (thousands),CellRank (initial/terminal) mean,CellRank (initial/terminal) std,CellRank (fate probs.) mean,CellRank (fate probs.) std,Palantir (fate probs.) mean,Palantir (fate probs.) std
+100000,12.8,0.02,14.22,0.05,82.5,4.35
