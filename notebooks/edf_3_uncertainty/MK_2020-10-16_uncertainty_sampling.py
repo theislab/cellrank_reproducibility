@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # This files produces the sampling part of the suppl. figure involving uncertainty.
-# The deterministic and stochastic modes can be found in: ML_2020-01-10_uncertainty.ipynb.
+# The deterministic and stochastic modes can be found in `ML_2021-10-26_uncertainty.ipynb`.
 
 
 import cellrank as cr

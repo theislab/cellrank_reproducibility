@@ -4,8 +4,8 @@ We believe that reproducibility is key and have made it as simple as possible to
 Please either open an `issue <https://github.com/theislab/cellrank/issues/new/choose>`_ or contact as
 at `info@cellrank.org <mailto:info@cellrank.org>`_ should you experience difficulties reproducing any result.
 
-Manuscript, Code and Data
-----------------------
+Manuscript, code and data
+-------------------------
 CellRank is published in `Nature Methods`_ and the software package can be found at our main website, `cellrank.org`_. Raw published data is available from the Gene Expression Omnibus (GEO) under accession codes:
 
 - `pancreas`_: `GSE132188 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132188>`_.
