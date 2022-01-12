@@ -1,13 +1,13 @@
 CellRank's reproducibility repository
 =====================================
-Code to reproduce results from **CellRank**. Please find the main CellRank website `cellrank.org`_ and
-the paper at `Nature Methods`_. We believe that reproducibility is key and have made it as simple as possible
-to reproduce our results. Please either open an `issue <https://github.com/theislab/cellrank/issues/new/choose>`_ or
-contact as at `info@cellrank.org <mailto:info@cellrank.org>`_ should you experience difficulties reproducing any result.
+Code to reproduce results from **CellRank**. We believe that reproducibility is key and
+have made it as simple as possible to reproduce our results. Please either open
+an `issue <https://github.com/theislab/cellrank/issues/new/choose>`_ or contact as at
+`info@cellrank.org <mailto:info@cellrank.org>`_ should you experience difficulties reproducing any result.
 
-Where to find the data
+Manuscript, Code and Data
 ----------------------
-Raw published data is available from the Gene Expression Omnibus (GEO) under accession codes:
+CellRank is published in `Nature Methods`_ and the software package can be found at our main website, `cellrank.org`_. Raw published data is available from the Gene Expression Omnibus (GEO) under accession codes:
 
 - `pancreas`_: `GSE132188 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132188>`_.
 - `lung`_: `GSE141259 <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141259>`_.
@@ -84,7 +84,7 @@ Results
     Supplementary Tab. 2, `link <https://nbviewer.org/github/theislab/cellrank_reproducibility/blob/master/notebooks/memory_benchmark/MK_2020-10-16_memory_benchmark.ipynb>`__, `path <notebooks/memory_benchmark/MK_2020-10-16_memory_benchmark.ipynb>`__
     Supplementary Tab. 3, `link <https://nbviewer.org/github/theislab/cellrank_reproducibility/blob/master/notebooks/memory_benchmark/MK_2020-10-16_memory_benchmark_1_core.ipynb>`__, `path <notebooks/memory_benchmark/MK_2020-10-16_memory_benchmark_1_core.ipynb>`__
 
-.. _Nature Methods: TODO
+.. _Nature Methods: https://www.nature.com/articles/s41592-021-01346-6
 .. _cellrank.org: https://cellrank.org
 .. _pancreas: https://doi.org/10.1242/dev.173849
 .. _lung: https://doi.org/10.1038/s41467-020-17358-3
