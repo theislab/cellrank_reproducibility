@@ -1,9 +1,8 @@
 CellRank's reproducibility repository
 =====================================
-Code to reproduce results from **CellRank**. We believe that reproducibility is key and
-have made it as simple as possible to reproduce our results. Please either open
-an `issue <https://github.com/theislab/cellrank/issues/new/choose>`_ or contact as at
-`info@cellrank.org <mailto:info@cellrank.org>`_ should you experience difficulties reproducing any result.
+We believe that reproducibility is key and have made it as simple as possible to reproduce our results.
+Please either open an `issue <https://github.com/theislab/cellrank/issues/new/choose>`_ or contact as
+at `info@cellrank.org <mailto:info@cellrank.org>`_ should you experience difficulties reproducing any result.
 
 Manuscript, Code and Data
 ----------------------
@@ -24,7 +23,8 @@ We've organized this repository along the categories below. For each item, you c
 to open the notebook in the browser using `nbviewer <https://nbviewer.jupyter.org/>`_.
 There is no 1-1 mapping from figures to notebooks - some notebooks produce panels for several figures, and some figures
 contain panels from several notebooks.
-The tables we provide here make the connection between figures and notebooks explicit.
+The tables we provide here make the connection between figures and notebooks explicit. At the top of each notebook,
+we indicate the package versions we use. 
 
 Results
 -------
