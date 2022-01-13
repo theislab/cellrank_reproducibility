@@ -14,7 +14,7 @@ CellRank is published in `Nature Methods`_ and the software package can be found
 
 Processed data, including spliced and unspliced count abundances, is available on
 `figshare <https://doi.org/10.6084/m9.figshare.c.5172299>`_.
-To ease reproducibility, our data examples can also be accessed trough CellRank's
+To ease reproducibility, our data examples can also be accessed through CellRank's
 `dataset interface <https://cellrank.readthedocs.io/en/stable/api.html#module-cellrank.datasets>`_.
 
 Navigating this repository
